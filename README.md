@@ -11,10 +11,10 @@ composer install
 y en otra terminal dentro del mismo proyecto accedemos a react
 > cd zapatos-frontes
 
-Tambien necesitamos de vite, por lo que si hay algun problema solo usamos
+Tambien necesitamos de vite para react, por lo que si hay algun problema solo usamos
 > npm install
 
-ahora comenzamos nuestro xampp con mysql y apache, y enviamos las migraciones, para despues en la terminal de laravel ejecutamos el comando serve y en la terminal de
+ahora comenzamos nuestro xampp con mysql y apache, y enviamos las migraciones en la terminal de laravel y ejecutamos el comando serve y en la terminal de
 react la de run
 ```
 php artisan migrate
