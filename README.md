@@ -4,8 +4,10 @@ dentro del proyecto nos encontraremos con dos carpetas, la de laravel y la de re
 
 por lo que descargamos el proyecto en nuesto htdocs, arrastramos esa carpeta a nuestro visual studio code
 y accedemos con la terminal de visual a nuestra api
-> cd api 
-
+```
+cd api
+composer install
+```
 y en otra terminal dentro del mismo proyecto accedemos a react
 > cd zapatos-frontes
 
